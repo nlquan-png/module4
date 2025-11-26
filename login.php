@@ -35,7 +35,8 @@ if(isset($_POST['email']) && isset($_POST['pass'])){
 <!DOCTYPE html>
 <html>
 <head>
-    https://github.com/nlquan-png/module4/blob/main/index.php
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
 <title>Ngô Lê Quân</title>
 </head>
 <body>

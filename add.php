@@ -37,7 +37,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
-    <title>Ngô Lê Quân</title>
+    <title>ngo le quan</title>
 </head>
 <body>
 <div class="container">

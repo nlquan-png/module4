@@ -2,8 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<title>Ngô Lê Quân</title>
-
+    <title>Ngô Lê Quân</title>
 </head>
 <body>
 <div class="container">

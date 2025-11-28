@@ -37,7 +37,7 @@ if(isset($_POST['email']) && isset($_POST['pass'])){
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
-<title>Ngô Lê Quân</title>
+<title>Ngô Lê Quân nlquan@vku.udn.vn</title>
 </head>
 <body>
 <div class="container">

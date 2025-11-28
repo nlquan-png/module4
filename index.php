@@ -20,7 +20,7 @@
         <a href="add.php">add.php</a> without logging in - it should fail with an error message.
     </p>
     <p>
-        <a href="https://github.com/nlquan-png/module4/edit/main/index.php" target="_blank">Specification for this Application</a>
+        <a href="https://github.com/nlquan-png/module4/blob/main/index.php" target="_blank">Specification for this Application</a>
     </p>
 </div>
 </body>

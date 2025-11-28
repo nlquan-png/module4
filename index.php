@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-    <title>ngô lê quân-38d08</title>
+    <title>Ngô Lê Quân nlquan@vku.udn.vn</title>
 </head>
 <body>
 <div class="container">

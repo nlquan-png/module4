@@ -25,7 +25,7 @@ Attempt to go to
 <a href="add.php">add.php</a> without logging in - it should fail with an error message.
 </p>
 <p>
-<a href="https://www.wa4e.com/assn/autosess/" target="_blank">Specification for this Application</a>
+<a href="https://github.com/nlquan-png/module4/tree/main" target="_blank">Specification for this Application</a>
 </p>
 </div>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"256a5db7232d48239a0fb56411d05bd3","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>

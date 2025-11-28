@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ngô Lê Quân nlquan@vku.udn.vn | 38d08 - Autos Database</title>
+<title>38d08 Ngô Lê Quân- Autos Database</title>
 </head>
 <body>
 <div class="container">
